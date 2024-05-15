@@ -15,4 +15,4 @@ Unlike other learning models where features are more interpretable, tree-based m
 ## Results
 Achieved a grade of 90% with a private Kaggle score of 0.84697, which ranked amongst the top 10% of the class.
 ## Further Extensions
-Using CatBoost to implement gradient boosting could yield better prediction scores as this framework is more suitable for categorical features, which close to 98% of the features were in this dataset. Another extension is to add a successfully tuned or semi-tuned neural net to the stack, as well as experiment with the weights of each model.
+Using CatBoost to implement gradient boosting could yield better prediction scores as this framework is more suitable for categorical features, which close to 99% of the features were in this dataset. Another extension is to add a successfully tuned or semi-tuned neural net to the stack, as well as experiment with the weights of each model.
